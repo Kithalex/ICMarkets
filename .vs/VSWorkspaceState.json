@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Domain",
+    "\\src\\Domain\\Entities",
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\Http",
+    "\\src\\Infrastructure\\Persistence",
+    "\\src\\Infrastructure\\Persistence\\Repositories",
+    "\\tests",
+    "\\tests\\IntegrationTests"
+  ],
+  "SelectedNode": "\\src\\Api\\Controllers\\BlockchainController.cs",
+  "PreviewInSolutionExplorer": false
+}

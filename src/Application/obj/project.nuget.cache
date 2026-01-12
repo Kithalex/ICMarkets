@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "00MmwSwtDyo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Infinity\\OneDrive\\Υπολογιστής\\ICMarkets\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Infinity\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Infinity\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
